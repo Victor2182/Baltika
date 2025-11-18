@@ -1,98 +1,99 @@
-#EXTINF:-1 group-title="Визит-Нет", Первый канал HD
+#EXTINF:-1 group-title="Эфирные", Первый канал HD
 http://lb.wisp.cat/lb0/ORTHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="Визит-Нет", Звезда
+#EXTINF:-1 group-title="Эфирные", Звезда
 http://lb.wisp.cat/lb0/ZVEZDA/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="Individual Entrepreneur",5 Канал
+#EXTINF:-1 group-title="Эфирные",5 Канал
 http://46.8.46.14/5ch/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Россия К
+#EXTINF:-1 group-title="Эфирные" ,Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="Primak Evgenii (VPN)", НТВ HD
+#EXTINF:-1 group-title="Эфирные", НТВ HD
 http://188.190.222.53/HTB_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Contact+ Ltd (VPN)", Рен ТВ
+#EXTINF:-1 group-title="Эфирные", Рен ТВ
 http://93.170.254.17/RenTV/index.m3u8
-#EXTINF:-1 group-title="Contact+ Ltd (VPN)", СТС
+#EXTINF:-1 group-title="Эфирные", СТС
 http://93.170.254.17/STS/index.m3u8
-#EXTINF:-1 group-title="Contact+ Ltd (VPN)", Карусель
+#EXTINF:-1 group-title="Эфирные", Карусель
 http://93.170.254.17/Karusel/index.m3u8
-#EXTINF:-1 group-title="Сайт (VPN)",ТВЦ
+#EXTINF:-1 group-title="Эфирные",ТВЦ
 http://193.25.8.59:8000/tvc
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",365 Дней
+#EXTINF:-1 group-title="Эфирные",365 Дней
 http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",РБК
+#EXTINF:-1 group-title="Эфирные",РБК
 http://91.194.191.241:8081/chid46/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Сайт (VPN)",Мир
+#EXTINF:-1 group-title="Эфирные",Мир
 http://193.25.8.59:8000/mir
-#EXTINF:-1 group-title="Primak Evgenii (VPN)", Москва 24
+#EXTINF:-1 group-title="Эфирные", Москва 24
 http://188.190.222.53/Moskva_24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Россия 24
+#EXTINF:-1 group-title="Эфирные" ,Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="24 часа ТВ",Москва доверие
+#EXTINF:-1 group-title="Эфирные",Москва доверие
 http://195.191.208.11:8087/udp/238.2.1.65:1234
-#EXTINF:-1 group-title="24 часа ТВ",Домашний
+#EXTINF:-1 group-title="Эфирные",Домашний
 http://195.191.208.11:8087/udp/238.9.64.115:1234
-#EXTINF:-1 group-title="24 часа ТВ",ОТР
+#EXTINF:-1 group-title="Эфирные",ОТР
 http://195.191.208.11:8087/udp/224.0.191.154:1234
-#EXTINF:-1 group-title="Евразия-Стар", Мир 24
+#EXTINF:-1 group-title="Эфирные", Мир 24
 http://87.76.32.36:8001/mir24
-#EXTINF:-1 group-title="Евразия-Стар", Ностальгия
+#EXTINF:-1 group-title="Эфирные", Ностальгия
 http://87.76.32.36:8001/nostalgiya
-#EXTINF:-1 group-title="Объединенные сети",Киносемья
+#EXTINF:-1 group-title="Эфирные",Киносемья
 http://146.120.14.239:3001/play/a082
-#EXTINF:-1 group-title="Объединенные сети",НАШЕ НОВОЕ КИНО
+#EXTINF:-1 group-title="Эфирные",НАШЕ НОВОЕ КИНО
 http://146.120.14.239:3001/play/a0ih
-#EXTINF:-1 group-title="Individual Entrepreneur",Родное Кино
+#EXTINF:-1 group-title="Эфирные",Родное Кино
 http://46.8.46.14/rodkino/index.m3u8
-#EXTINF:-1 group-title="Визит-Нет", TV1000 Русское кино
+#EXTINF:-1 group-title="HD", TV1000 Русское кино
 http://lb.wisp.cat/lb0/TV1000RusKino/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="TEST ⓵",Дом Кино Премиум
+#EXTINF:-1 group-title="HD",Дом Кино Премиум
 http://85.11.144.6:6060/play/a07v/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Телекафе
+#EXTINF:-1 group-title="HD", Телекафе
 https://flussonic.salomtv.uz/telekafe/video.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Русский Роман
+#EXTINF:-1 group-title="HD",Русский Роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Романтичное HD
+#EXTINF:-1 group-title="HD" , Романтичное HD
 http://50.7.28.226/8948/index.m3u8
-#EXTINF:-1 group-title="Объединенные сети",Победа
+#EXTINF:-1 group-title="HD",Победа
 http://146.120.14.239:3001/play/a076
-#EXTINF:-1 group-title="Объединенные сети",Родное Кино
+#EXTINF:-1 group-title="HD",Родное Кино
 http://146.120.14.239:3001/play/a07z
-#EXTINF:-1 group-title="Объединенные сети",Любимое Кино
+#EXTINF:-1 group-title="HD",Любимое Кино
 http://146.120.14.239:3001/play/a095
-#EXTINF:-1 group-title="24 часа ТВ",Иллюзион+
+#EXTINF:-1 group-title="HD",Иллюзион+
 http://195.191.208.11:8087/udp/238.9.64.202:1234
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Русский Иллюзион
+#EXTINF:-1 group-title="HD",Русский Иллюзион
 http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Советская Киноклассика
+#EXTINF:-1 group-title="HD",Советская Киноклассика
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Primak Evgenii (VPN)", День победы
+#EXTINF:-1 group-title="HD", День победы
 http://188.190.222.53/Den_pobedy_hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10290/logo_256_1658737599.png", Советское кино
+#EXTINF:-1 group-title="HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10290/logo_256_1658737599.png", Советское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/2mEBV--s8e7AvO0q0Nd6Dg,1763409307/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10289/logo_256_1658737584.png", Советские мультфильмы
+#EXTINF:-1 group-title="HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10289/logo_256_1658737584.png", Советские мультфильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/vYUDp-y7NXm5efdL9ht3Ug,1763409307/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Большое ТВ (VPN)",Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="HD",Мосфильм. Золотая коллекция HD
 http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSA3OjU1OjEzIFBNJmhhc2hfdmFsdWU9L2l3dm5BMTdDN2R2V1crRnA4L1lnQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ Хит
+#EXTINF:-1 group-title="HD",НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ Сериал
-#EXTINF:-1 group-title="Individual Entrepreneur",Русский Бестселлер
+#EXTINF:-1 group-title="HD",НТВ Сериал
+http://195.191.208.11:8087/udp/238.2.3.16:1234
+#EXTINF:-1 group-title="HD",Русский Бестселлер
 http://46.8.46.14/rubestseller/index.m3u8
-#EXTINF:-1 group-title="Объединенные сети",Дом кино
+#EXTINF:-1 group-title="HD",Дом кино
 http://146.120.14.239:3001/play/a073
-#EXTINF:-1 group-title="TEST ⓵", Русский детектив
+#EXTINF:-1 group-title="HD", Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
+#EXTINF:-1 group-title="HD" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="FDCservers" , Твоё ТВ
+#EXTINF:-1 group-title="HD" , Твоё ТВ
 http://50.7.28.226/9236/index.m3u8
-#EXTINF:-1 group-title="Объединенные сети",Кинопремьера HD
+#EXTINF:-1 group-title="HD",Кинопремьера HD
 http://146.120.14.239:3001/play/a0ds
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10623/logo_256_1655386680.png", Наш кинопоказ
+#EXTINF:-1 group-title="HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10623/logo_256_1655386680.png", Наш кинопоказ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/1PerXXDRn2qMCjwjXuLzVA,1763409307/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Primak Evgenii (VPN)", Комедийное HD
+#EXTINF:-1 group-title="HD", Комедийное HD
 http://188.190.222.53/Kinopokaz_HD2/tracks-v1a1/mono.ts.m3u8
+
 
